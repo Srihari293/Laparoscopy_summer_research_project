@@ -6,5 +6,5 @@ This is the github repository of Srihari and contains work pertaining to the und
 |---|---|
 |Introduction and project brief |18<sup>th</sup> November| 
 |Project discussion |25<sup>th</sup> November|
-|Op-amps research and potentiometer prototype | 1<sup>st</sup>
-|Data collection, data analysis and mathematical modelling | 8<sup>th</sup> (tentative)|
+|Op-amps research and potentiometer prototype | 1<sup>st</sup> December|
+|Data collection, data analysis and mathematical modelling | 8<sup>th</sup> December(tentative)|
