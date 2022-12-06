@@ -9,7 +9,7 @@ float resistance = 0;
 float conductance = 0;
 float force = 0;
 float V_in = 5000; // Input Voltage (mV)
-float R_m = 220;   // Measurement Resistor (ohms)
+float R_m = 10000;   // Measurement Resistor (ohms)
 
 void setup(void) {
   Serial.begin(9600);
@@ -22,9 +22,9 @@ void loop() {
   Serial.print("Analog reading from FSR = ");
   Serial.println(value);
 
-  // Value lies between 0 and 1023. So we have to remap it.
+  // Value lies between 0 and 782. So we have to remap it.
   // Map analog value to obtain Vo in mV
-  voltage = map(value, 0, 1023, 50., 4900.);
+  voltage = map(value, 0, 800, 0., 5000.);
 
   if (voltage == 0) {
     Serial.println("No force applied");
