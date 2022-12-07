@@ -21,7 +21,8 @@ void loop() {
   if (value > 0 && voltage > 0) {
 //    Serial.print(value);
 //    Serial.print(",");
-    Serial.println(voltage);
+    Serial.print(voltage);
+    Serial.println(",");
     delay(250);
   }
 }
