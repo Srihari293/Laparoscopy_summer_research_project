@@ -4,11 +4,4 @@ This is the github repository of Srihari and contains work pertaining to the und
 Please view the websites listed below for a better understanding of the overall project
 1. [RoMI labs](https://www.monash.edu/romi)
 2. [Monash Robotics](https://www.monash.edu/engineering/robotics/projects/control-system-for-an-assistive-robotic-arm-in-the-minimally-invasive-surgery)
-
-## Progress timeline
-|**Work**|**Date**|
-|---|---|
-|Introduction and project brief |18<sup>th</sup> November| 
-|Project discussion |25<sup>th</sup> November|
-|Op-amps research and potentiometer prototype | 1<sup>st</sup> December|
-|Data collection, data analysis and mathematical modelling | 8<sup>th</sup> December(tentative)|
+3. [Notion](https://nonchalant-lycra-2df.notion.site/Laparoscopy-Summer-Research-055ccceb93f8422fac670a7ee0825ad9)
